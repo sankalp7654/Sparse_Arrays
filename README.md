@@ -1,4 +1,4 @@
-# Sparse_Arrays
+# Sparse-Arrays
 There is a collection of  strings ( There can be multiple occurences of a particular string ). Each string's length is no more than  characters. There are also  queries. For each query, you are given a string, and you need to find out how many times this string occurs in the given collection of  strings.
 
 **Input Format**		              			
@@ -12,7 +12,7 @@ The following  lines each contain a query string.
 1 <= Q <= 1000                        
 1 <= length of any string <= 20             
  
-**Sample Input**			
+**Sample Input**			              
 4                        
 aba                       
 baba 			              
